@@ -1,0 +1,18 @@
+Final Review Summer '17
+
+1.	Write a function to print the values in Binary Tree 'in-order' in reverse.  For example:  
+		Inorder:  A, B, C
+		Inorder reverse:  C, B, A
+	
+2.	Write a function to determine if an Ordered Tree needs to be rebalanced.
+	
+3.	Write a search algorithm that:
+	a.  First compares the pattern length character to a sequential character in a line of text.
+	b.	 If the compare is equal, check the First character in the pattern to the text.
+	c.	 If the compare is unequal, skip the pattern length characters in the text and repeat.
+	d.  If the first character and pattern length character are the same, check all the characters
+		 in the pattern from the first to last character to the text.
+	e.	 Repeat from step a. until EOF
+	
+	*  What is the Big-O of this algorithm?
+	*  Will this algorithm skip any valid patterns in the text?	

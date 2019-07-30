@@ -1,0 +1,17 @@
+http://www.cs.armstrong.edu/liang/animation/web/BubbleSort.html
+
+http://www.programming-algorithms.net/article/39344/Bubble-sort
+
+http://cs.armstrong.edu/liang/animation/web/InsertionSort.html
+
+http://www.programming-algorithms.net/article/39459/Insertion-sort
+
+http://www.cs.armstrong.edu/liang/animation/web/SelectionSort.html
+
+http://www.programming-algorithms.net/article/39430/Selection-sort
+
+http://www.programming-algorithms.net/article/41653/Shell-sort
+
+http://www.cs.armstrong.edu/liang/animation/web/QuickSortPartition.html
+
+http://www.programming-algorithms.net/article/39552/Quicksort
